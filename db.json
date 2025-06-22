@@ -27260,5 +27260,19 @@
       "description": "Steve Jobs - texnologiya dünyasının lideri haqqında",
       "Image": "https://www.libraff.az/images/abt__ut2/banners/all/1305/martin-iden-desktop.webp"
     }
+  ],
+  "Users":[
+    {
+      "id": 1,
+      "ad": "Agasalim",
+      "soyad": "Musayev",
+      "tel": "+994773997811",
+      "email": "+aga77ams@gmail.com",
+      "password": "AM103068s",
+      "gender": "male",
+      "created": "2025-06-22",
+      "role": "SuperAdmin",
+      "active": true
+    }
   ]
 }
